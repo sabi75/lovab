@@ -1,0 +1,8 @@
+{
+  "name": "Lovable Clone Builder",
+  "description": "An AI-powered development platform that transforms natural language descriptions into complete, functional React and Supabase applications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
